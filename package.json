@@ -21,7 +21,6 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "5.3.4",
-    "strapi-plugin-measurement-protocol": "^1.0.1",
     "strapi-plugin-sitemap": "^3.0.7",
     "strapi-provider-upload-do": "^3.6.9",
     "styled-components": "5.3.3"
